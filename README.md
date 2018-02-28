@@ -1,6 +1,9 @@
 # hello-world
 First project to play around with on Git-hub
 Just playing around with the verisoning in github
+Testing links
+
+The [NHL](https://www.nhl.com/) is a medicore site.
 
 A good test 
 .……………………._„„„--~””””¯””~-,
